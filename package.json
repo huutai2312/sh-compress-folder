@@ -1,0 +1,11 @@
+{
+  "name": "folder-zipper",
+  "version": "1.0.0",
+  "description": "Ứng dụng nén thư mục",
+  "main": "app.js",
+  "dependencies": {
+    "archiver": "^5.3.1",
+    "nodemailer": "^6.9.9"
+  },
+  "type": "commonjs"
+} 
